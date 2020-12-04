@@ -1,11 +1,3 @@
-# Angular6 Example Website Structure
-
-Beautiful angular6 website structure with animated slider and navigation flow.
-
-Check it out on Dribbble (https://dribbble.com/shots/5264929-Spect-website)
-
-<img src="https://github.com/Mindinventory/Angular6-Example-Website/blob/master/spect.gif" >
-
 ## Getting started
 
 **Warning**
